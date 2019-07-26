@@ -7,3 +7,5 @@
 •	Experienced Ph.D. researcher solving complex quantitative problems and designing research process; presented at renowned international conferences and published articles on high impact journals.
 
 •	Seeking full-time positions in May 2020.
+
+I am gradualy uploading my programs to GitHub. Please waiting. 
