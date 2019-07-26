@@ -8,4 +8,4 @@
 
 •	Seeking full-time positions in May 2020.
 
-I am gradualy uploading my programs to GitHub. Please waiting. 
+I am gradually uploading my programs (Python + Bash + IDL + FORTRAN) to GitHub. Please waiting. 
