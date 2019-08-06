@@ -1,7 +1,7 @@
 ## Welcome to Yi Wang's GitHub
 I am currently a Ph.D. student at Texas A&M University studying atmospheric sciences. 
 
-•	5 yrs + experience in processing with numerous satellite image and sensor data on a large dataset (10TB+), performing data visualization and error detection, applying statistical analysis and machine learning techniques to research problems.
+•	5 yrs + experience in processing numerous satellite image and sensor data on a large dataset (10TB+), performing data visualization and error detection, applying statistical analysis and machine learning techniques to research problems.
 
 •	Design & implement exploratory data analysis architecture and optimization algorithms in geoscience data with model simulations.
 
